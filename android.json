@@ -1,1 +1,1 @@
-{"versionCode": 3, "versionName": "0.3.0", "apkUrl": "https://github.com/noamvb/election-night-releases/releases/download/android/ElectionNight.apk", "sha256": "2cbc75cec0b46169d4ebdffeecf35820133b287d2ff4a1685486250315bc676b", "notes": "Israel now shows Knesset seats"}
+{"versionCode": 4, "versionName": "0.4.0", "apkUrl": "https://github.com/noamvb/election-night-releases/releases/download/android/ElectionNight.apk", "sha256": "7d9b1fd77d77473beba1eaa54f72486ab1c1e0f5505fb3c7d4785e8ba9f8e929", "notes": "Numbers now come from the server, so the app and the page always agree"}
